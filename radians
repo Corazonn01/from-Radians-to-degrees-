@@ -9,6 +9,7 @@ print(math.sin(radians))
 
 #another way of doing the same 
 import math 
+
 radian = int(input())
 math = math.sin(math.radians(radian))
 if -0.01 < math < 0.01:
