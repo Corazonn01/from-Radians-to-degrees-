@@ -1,4 +1,4 @@
-#Convert radians into degrees
+#Convert radians into degrees.
 
 import math 
 any_number = int(input())
